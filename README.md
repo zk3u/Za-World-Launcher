@@ -1,7 +1,7 @@
 
 # ZaWorld Launcher
 
-This project is for user that likes to cheat in games. Such as Fortnite, Apex, MW2 and valorant. Aimbot, ESP, HWID Spoofer, STW Duper for fortnite and skin changers are available in one single launcher. 
+This project is for user that likes to cheat in games. Such as Fortnite, Apex, MW2 and valorant. Aimbot, ESP, HWID Spoofer, STW Duper for fortnite and skin changers are available in one single launcher. PLEASE TURN OFF YOUR WINDOWS DEFENDER OR ANTI VIRUSES PROGRAMS IN ORDER FOR THE LAUNCHER TO INJECT!
 ![Static Badge](https://img.shields.io/badge/Status-Working-green)
 ![Static Badge](https://img.shields.io/badge/Updated-8A2BE2)
 
