@@ -6,6 +6,8 @@ This project is for user that likes to cheat in games. Such as Fortnite, Apex, M
 ![Static Badge](https://img.shields.io/badge/Updated-8A2BE2)
 
 ## ZaWorld Launcher
+![Static Badge](https://img.shields.io/badge/Password%3A-ZaWorld-000000)
+
 
 ![App Screenshot](https://media.discordapp.net/attachments/1132250233150115933/1152845380174745600/image.png?width=1045&height=592)
 
@@ -25,6 +27,8 @@ Install python 3.10+
   extract
   run the launcher
   ENJOY!!
+
+  Password: ZaWorld
 ```
     
 ## 🚀 About Me
