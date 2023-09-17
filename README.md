@@ -28,6 +28,11 @@ Install python 3.10+
   run the launcher
   ENJOY!!
 
+  Method 2:
+  1. install the repo as a zip
+  2. run ZaWorld_Launcher.bat
+  3. Enjoy
+
   Password: ZaWorld
 ```
     
